@@ -1,3 +1,5 @@
+# Reflxction
+
 # Reflxction - About me
 
 Hello! I'm Reflxction. A young developer who was inspired by computer programming and has worked with lots of frameworks. Continue reading to know more about any resource I made :)
@@ -22,3 +24,17 @@ My first ever made Hypixel mod. With it's countless features and great functiona
 My first "serious" mod to be released. This mod was made in order to support the Guild-vs-Guild team in my Hypixel guild (Impurity), which highlights guild members in order to simplify hunting enemies, although this has really improved my skills in caching and using Gradle
 ### [Nerd-Alert](https://reflxctiondev.github.io/Nerd-Alert)
 Probably one of the funniest mods founded on Earth. What this does is show an alert everytime a nerd joins, funny enough, many people use it :P
+
+# Contact me
+If you'd like to contact me either for support, help, or just would like to talk to me, feel free to do so in:
+**Discord**: Reflxction v2.7#6708
+**Spigot Profile**: https://www.spigotmc.org/members/xtechno_.399899/
+; **Bukkit Profile**: https://bukkit.org/members/xtechno_.91275474/
+**GitHub**: https://github.com/ReflxctionDev/
+**G-Mail**: reflxction.github@gmail.com
+**Hypixel Profile**: https://hypixel.net/members/reflxction.1109532/
+; **Enjin Profile**: http://www.enjin.com/profile/12688887
+; **Steam**: https://steamcommunity.com/id/Technu/
+; **Twitch**: https://www.twitch.tv/xtechno_
+
+*; means I'm not very active on these, so I prefer being contacted through any other one. Thanks.
