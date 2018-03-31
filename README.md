@@ -19,6 +19,6 @@ My first plugin ever released on Spigot. Although it's not that useful, it reall
 ### [AutoMSG](https://reflxctiondev.github.io/AutoMSG)
 My first ever made Hypixel mod. With it's countless features and great functionality, this mod was the #1 decision for lazy people
 ### [NameFormatter](https://reflxctiondev.github.io/NameFormatter)
-My first "serious" mod to be released. This mod was made in order to support the Guild-vs-Guild team in my Hypixel guild (Impurity), which highlights guild members in order to simplify hunting enemies ;)
+My first "serious" mod to be released. This mod was made in order to support the Guild-vs-Guild team in my Hypixel guild (Impurity), which highlights guild members in order to simplify hunting enemies, although this has really improved my skills in caching and using Gradle
 ### [Nerd-Alert](https://reflxctiondev.github.io/Nerd-Alert)
-Probably one of the funniest mods founded on Earth, 
+Probably one of the funniest mods founded on Earth. What this does is show an alert everytime a nerd joins, funny enough, many people use it :P
