@@ -43,6 +43,6 @@ If you'd like to contact me either for support, help, or just would like to talk
 
 ; **Steam**: [https://steamcommunity.com/id/Technu/](https://steamcommunity.com/id/Technu/)
 
-; **Twitch**: (https://www.twitch.tv/xtechno_)[ https://www.twitch.tv/xtechno_]
+; **Twitch**: (https://www.twitch.tv/xtechno_)[https://www.twitch.tv/xtechno_]
 
 *; means I'm not very active on these, so I prefer being contacted through any other one. Thanks.* 
