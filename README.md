@@ -12,4 +12,9 @@ One of the first yet best plugins I have released. Although it's very small, it 
 ### [WaterProof Blazes](https://reflxctiondev.github.io/WaterProofBlazes)
 A plugin which was made upon a friend's request, yet I thought it'd be useful to release it. Blazes could now play in the rain and swim on the beaches with this plugin!
 ### [StaffJQ](https://reflxctiondev.github.io/StaffJQ)
-A fulfilled request made upon someone, which sends special messages when a staff joins
+A fulfilled request made upon someone, which sends special messages when a staff joins. Can be a good addition to any server
+### [SetHunger](https://reflxctiondev.github.io/SetHunger)
+My first plugin ever released on Spigot. Although it's not that useful, it really was when you need to mess with others!
+## Minecraft Forge Modifications
+## [AutoMSG](https://reflxctiondev.github.io/AutoMSG)
+s
