@@ -28,13 +28,21 @@ Probably one of the funniest mods founded on Earth. What this does is show an al
 # Contact me
 If you'd like to contact me either for support, help, or just would like to talk to me, feel free to do so in:
 **Discord**: Reflxction v2.7#6708
+
 **Spigot Profile**: https://www.spigotmc.org/members/xtechno_.399899/
+
 ; **Bukkit Profile**: https://bukkit.org/members/xtechno_.91275474/
+
 **GitHub**: https://github.com/ReflxctionDev/
+
 **G-Mail**: reflxction.github@gmail.com
+
 **Hypixel Profile**: https://hypixel.net/members/reflxction.1109532/
+
 ; **Enjin Profile**: http://www.enjin.com/profile/12688887
+
 ; **Steam**: https://steamcommunity.com/id/Technu/
+
 ; **Twitch**: https://www.twitch.tv/xtechno_
 
-*; means I'm not very active on these, so I prefer being contacted through any other one. Thanks.
+*; means I'm not very active on these, so I prefer being contacted through any other one. Thanks.* 
