@@ -16,5 +16,9 @@ A fulfilled request made upon someone, which sends special messages when a staff
 ### [SetHunger](https://reflxctiondev.github.io/SetHunger)
 My first plugin ever released on Spigot. Although it's not that useful, it really was when you need to mess with others!
 ## Minecraft Forge Modifications
-## [AutoMSG](https://reflxctiondev.github.io/AutoMSG)
-s
+### [AutoMSG](https://reflxctiondev.github.io/AutoMSG)
+My first ever made Hypixel mod. With it's countless features and great functionality, this mod was the #1 decision for lazy people
+### [NameFormatter](https://reflxctiondev.github.io/NameFormatter)
+My first "serious" mod to be released. This mod was made in order to support the Guild-vs-Guild team in my Hypixel guild (Impurity), which highlights guild members in order to simplify hunting enemies ;)
+### [Nerd-Alert](https://reflxctiondev.github.io/Nerd-Alert)
+Probably one of the funniest mods founded on Earth, 
