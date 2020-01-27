@@ -27,7 +27,7 @@ Probably one of the funniest mods founded on Earth. What this does is show an al
 
 # Contact me
 If you'd like to contact me either for support, help, or just would like to talk to me, feel free to do so in:
-**Discord**: Reflxction v2.7#6708
+**Discord**: Reflxction<?>#6708
 
 **Spigot Profile**: [https://www.spigotmc.org/members/xtechno_.399899/](https://www.spigotmc.org/members/xtechno_.399899/)
 
